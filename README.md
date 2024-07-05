@@ -1,6 +1,6 @@
 # Grails Example Code
 
-This repository serves as a collection of Grails code snippets and examples for reference purposes. It is not intended to be run as a standalone application but rather to provide an example of the code used by Missouri State University's brigthspace augmentation. Any additional questions should be sent to ethanlynch@missouristate.edu
+This repository serves as a collection of Grails code snippets and examples for reference purposes. It is not intended to be run as a standalone application but rather to provide an example of the code used by Missouri State University's brightspace augmentation. Any additional questions should be sent to ethanlynch@missouristate.edu
 
 ## Structure
 
